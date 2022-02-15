@@ -13,7 +13,7 @@
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-  <img align="right" height="180" width="165" src="https://github.com/Erick-Pavani/Erick-Pavani/blob/master/Profile_Gif.gif"/>
+  <img align="right" height="165" width="150" src="https://github.com/Erick-Pavani/Erick-Pavani/blob/master/Profile_Gif.gif"/>
 </div>
 
   ##
