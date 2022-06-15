@@ -21,14 +21,14 @@
   <!-- Back-End -->
   <h1>Back-End</h1>
   <img align="center" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img align="center" height="75" width="75" src="Flask-logo.png" />
   <img align="center" height="115" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
   <img align="center" height="140" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
   <!-- Gerais -->
   <h1>General</h1>
   <img align="center" height="125" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-  <img align="center" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" height="75" width="75" src="github.png" />
   <img align="center" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 
@@ -42,7 +42,7 @@
   <img align="center" height="115" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
   <img align="center" height="115" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" />
   <img align="center" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" />
-  <img align="center" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" />
+  <img align="center" height="150" width="150" src="codepen_logo.png" />
   <img align="center" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />        
   
   <!-- Links para contato -->
