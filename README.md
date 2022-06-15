@@ -1,6 +1,6 @@
 <!-- Main Title -->
 <div align="center">
-  <h2>Hi! <img height="30" width="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm Erick! A Full Stack Web Developer who loves Python and dark themed things!</h2>
+  <h1>Hi! <img height="45" width="45" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm Erick! A Full Stack Web Developer who loves Python and dark themed things!</h1>
 </div>
 
 <!-- Stats -->
@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Pavani&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
-<div style="display: inline_block" align="center">
+<div align="center">
   
   <!--   Front-End -->
   <h1>Front-End</h1>
@@ -23,7 +23,7 @@
   <!--   Back-End -->
   <h1>Back-End</h1>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="50" width="50" style="fill: green;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
