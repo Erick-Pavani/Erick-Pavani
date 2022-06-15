@@ -1,6 +1,6 @@
 <!-- Main Title -->
 <div align="center">
-	<h1>Hi! Welcome to my profile! <img height="45" width="45" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+	<h1>Hi! Welcome to my profile! <img height="45" width="45" src="Hi.gif"></h1>
   <img src="Header.svg">
 	<br>
 	<br>
