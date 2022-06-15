@@ -1,6 +1,6 @@
 <!-- Main Title -->
 <div align="center">
-  <h1>Hi! <img height="45" width="45" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm Erick! A Full Stack Web Developer who loves Python and dark themed things!</h1>
+  <img src="Teste.svg" width="800" height="300">
 </div>
 
 <!-- Stats -->
