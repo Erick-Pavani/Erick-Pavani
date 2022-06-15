@@ -42,7 +42,7 @@
   <img align="center" height="115" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
   <img align="center" height="115" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" />
   <img align="center" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" />
-  <img align="center" height="150" width="150" src="codepen_logo.png" />
+  <img align="center" height="150" width="150" src="Codepen-logo.svg" />
   <img align="center" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />        
   
   <!-- Links para contato -->
