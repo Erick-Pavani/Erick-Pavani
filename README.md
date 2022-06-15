@@ -1,8 +1,8 @@
 <!-- Main Title -->
 <div align="center">
-	<h1>Hi! <img height="45" width="45" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-	<br>
+	<h1>Hi! Welcome to my profile! <img height="45" width="45" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
   <img src="Teste.svg" width="1000" height="250">
+	<br>
 	<br>
 </div>
 
