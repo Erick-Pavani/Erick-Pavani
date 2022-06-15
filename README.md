@@ -1,6 +1,6 @@
 <!-- Main Title -->
 <div align="center">
-  <img src="Teste.svg" width="800" height="300">
+  <img src="Teste.svg" width="1000" height="250">
 </div>
 
 <!-- Stats -->
