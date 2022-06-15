@@ -22,7 +22,7 @@
   <h1>Back-End</h1>
   <img align="center" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="75" width="125" src="Flask_logo.svg" />
-  <img align="center" height="115" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+  <img align="center" height="75" width="130" src="Django_logo.svg" />
   <img align="center" height="140" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
   <!-- Gerais -->
